@@ -33,9 +33,10 @@ Espesificos:
 
 -Aprender acerca de la notación de ingeniería y sus prefijos para facilitar la representación de tanto cantidades grandes como pequeñas, además de la conversión de un prefijo métrico a otro
 
-Seccion 1
-https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SI.png
-
 -Conceptuar términos basicos de medición para trabajar con un Circuito Eléctrico
 
 -Examinar los diversos instrumentos de medición entendiendo su uso y función.
+
+Seccion 1
+
+https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SI.png
