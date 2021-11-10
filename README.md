@@ -40,3 +40,15 @@ Espesificos:
 Seccion 1
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SI.png)
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
+
+![]
