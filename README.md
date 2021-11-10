@@ -25,7 +25,7 @@ General:
 
 Fundamentar los conocimientos impartidos en clase mediante la realización de ejercicios y repaso de teoría.
 
-Espesificos:
+Especificos:
 
 -Realizar un analisis del estandar SI
 
@@ -37,7 +37,7 @@ Espesificos:
 
 -Examinar los diversos instrumentos de medición entendiendo su uso y función.
 
-Seccion 1
+Capitulo 1: Cantidades y unidades
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SI.png)
 
