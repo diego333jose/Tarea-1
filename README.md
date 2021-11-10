@@ -47,9 +47,9 @@ Seccion 1
 
 Ejercicios:
 
-![]
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%201%20DIEGO%20ALVARADO_page-0001.jpg)
 
-![]
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%201%20DIEGO%20ALVARADO_page-0002.jpg)
 
 ![]
 
