@@ -70,3 +70,9 @@ Ejercicios del Capitulo 2:
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0006.jpg)
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0007.jpg)
+
+Conclusiones:
+-El uso de la notacion cientificia y de ingenieria es sumamente util al momento de querer trabajar con numeros de gran tamaño esto apoyado por los prefijos metricos (en caso de notacion de ingenieria) quienes sustituyen la necesidad de escribir la base 10, agilizando el trabajo.
+
+-
+
