@@ -45,12 +45,28 @@ Capitulo 1: Cantidades y unidades
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/Unidades%20metricas.png)
 
-Ejercicios:
+Ejercicios del capitulo 1:
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%201%20DIEGO%20ALVARADO_page-0001.jpg)
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%201%20DIEGO%20ALVARADO_page-0002.jpg)
 
-![]
+Capitulo 2: Voltaje, corriente y resistencia
 
-![]
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/Untitled.jpg)
+
+Ejercicios del Capitulo 2:
+
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0001.jpg)
+
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0002.jpg)
+
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0003.jpg)
+
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0004.jpg)
+
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0005.jpg)
+
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0006.jpg)
+
+![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0007.jpg)
